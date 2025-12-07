@@ -1,7 +1,8 @@
 import axios from "axios";
 
 const axiosClient = axios.create({
-  baseURL: "http://localhost:5000/api"
+  baseURL: "https://ekart-app1.onrender.com/api"
+
 });
 
 axiosClient.interceptors.request.use((config) => {
