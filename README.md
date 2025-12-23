@@ -24,4 +24,4 @@ A full-stack e-commerce web application built using the MERN stack, providing a 
 - RESTful APIs with secure authentication
 - Live deployed project demonstrating full workflow
 
-> ⚠️ Note: Initial load may take a few seconds due to free hosting.
+
